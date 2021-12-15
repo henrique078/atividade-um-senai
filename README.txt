@@ -13,3 +13,5 @@ git merge
 git show
 git remot add origin
 git remote -v
+
+TESTE
